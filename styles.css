@@ -2,8 +2,16 @@
 body {
          background-color: #f4f9f9;
     }
+h1 {
+    color: #66bfbf;
+}
 
-    hr {
+h3{
+    color: aqua;
+}
+
+
+hr {
             
         border-style: none;
         border-top-style: dotted;
