@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Shubham's RESUME</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='styles.css'>
+    <script src='main.js'></script>
+</head>
+<body style="background-color : #f4f9f9">
+    <table cellspacing="20">
+        <tr>,
+            <td>
+                <img src="https://avatars3.githubusercontent.com/u/39916572?s=460&u=aaa2ccfb4139c845118e86798fe0cdb9d4eda4db&v=4" Height="150" Width="150" alt="Shubham Kumar Gupta">
+            </td>
+            <td>
+                <h1><b>Shubham Gupta</b></h1>
+                <p> A Student on mission to live a <i> best life possible </i> by learning new things daily.</p>
+            </td>
+        </tr>
+    </table>
+    <hr>
+    <Center><h2>OVERVIEW</h2> </Center>
+    <ul>
+        <li>Distinction in B.Sc. Mathematics honours degree</li>
+        <li>Scored 93% in mathematics in Class XII CBSE board Exam</li>
+        <li>Scored 10CGPA in Class X CBSE board exam.</li>
+    </ul>
+   <Center><h2>ACADEMIC INFORMATION</h2></Center>
+    <table border="1">
+        <thead>
+            <th>Year</th>
+            <th>Academics</th>
+            <th>School/college</th>
+        </thead>
+        <tbody>
+        <tr>
+            <td>2012-2014</td>
+            <td>Secondary Level</td>
+            <td>RPS Public School, Patna | CBSE</td>
+        </tr>
+        <tr>
+            <td>2014-2016</td>
+            <td>Senior Secondary Level</td>
+            <td>Holy Mission Secondary School, Patna | CBSE </td>
+        </tr>
+        <tr>
+            <td>2016-2019</td>
+            <td>Bachelor in Science</td>
+            <td>Patna Science college, Patna | Patna University </td>
+        </tr>
+    </tbody>
+    <tfoot></tfoot>
+    </table>
+  <Center>   <h2>KEY SKILLS</h2></Center>
+<table>
+    <tr>
+        <td>IT SKILLS</td>
+        <td>☆☆☆☆</td>
+    </tr>
+    <tr>
+        <td>SOFT SKILLS</td>
+        <td>☆☆☆</td>
+    </tr>
+    <tr>
+        <td>COMMUNICATION SKILLS</td>
+        <td>☆☆☆</td>
+    </tr>
+     <tr>
+        <td>DIGITAL MARKETING</td>
+       . <td>☆☆☆</td>
+    </tr>
+   
+    
+</table>
+<Center><h2>CERTIFICATIONS</h2></Center>
+
+    <ol>
+   <li> <B><a href="https://www.linkedin.com/posts/shubhamkg7_google-digitalmarketing-activity-6781984443109302272-Q3Wz">THE FUNDAMENTALS OF DIGITAL MARKETING by GOOGLE</a></B>
+   <li><B><a href="https://www.linkedin.com/posts/shubhamkg7_microsoft-thankyou-activity-6781997360974237696-K4-L">MS EXCEL WORKSHOP CERTIFICATE</a></B>
+   <li><B>BIHAR STATE-CERTIFICATE IN INFORMATION TECHNOLOGY</B> 
+   <li><B>BIHAR STATE-CERTIFICATE IN COMMUNICATION SKILLS</B>
+   <li><B>BIHAR STATE-CERTIFICATE IN SOFT SKILLS</B>
+    
+    </ol>
+
+  <Center>  <h2>LANGUAGE KNOWN</h2></Center>
+<table>
+ 
+   <tr><td>ENGLISH </td>
+   <tr><td>HINDI</td></tr>
+   
+</table>
+  <Center>  <h2>MY HOBBIES</h2></Center>
+    <ol>
+        <li>Reading tech and Financial News/Articles</li>
+        <li>Listening Songs</li>
+        <li>Playing Cricket</li>
+    </ol>
+    <hr>
+    
+   
+    <a href="Projects.html">MY PROJECTS</a></center>
+    <a href="https://about.me/shubhamkg7">ABOUT ME</a>
+    <a href="contact.html">CONTACT ME</a>
+    
+    
+</body>
+</html>
