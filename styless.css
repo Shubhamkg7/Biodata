@@ -93,6 +93,10 @@ a:hover{
     right: 300px;
     top: 40px;
 }
+.mountain{
+    position: relative;
+    width:50%
+}
 
 .contact-message{
     width: 40%;
