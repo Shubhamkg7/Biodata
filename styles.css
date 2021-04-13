@@ -21,4 +21,5 @@ hr {
 .s {
   list-style: none;
   display: inline-block;
+  text-align: right;
 }
